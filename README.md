@@ -13,4 +13,7 @@ Soal 4B : Belum selesai, masih tahap view atau menampilkan data dan gambar saja.
 Lainnya yang selesai yaitu modal atau pop up tambah buku tapi query belum bisa memasukkan data<br>
 Untuk tambah kategori, pinjam, kembalikan, dan sort bedasarkan kategori belum selesai karena waktu kurang dan banyak yang sudah lupa<br>
 Saya menggunakan template untuk tampilan html dan css bootstrap yang bisa di download di https://startbootstrap.com/template/shop-homepage<br><br>
-Tes ini saya kerjakan dengan semampu saya dan sejujur mungkin, semoga cukup nilainya. Terima Kasih
+Tes ini saya kerjakan dengan semampu saya dan sejujur mungkin, semoga cukup nilainya. Terima Kasih<br><br>
+Gambar Halaman Pertama dan Modal Tambah Buku : <br>
+![alt text](https://github.com/isrovi/technical-test/index.jpg?raw=true)<br>
+![alt text](https://github.com/isrovi/technical-test/modal.jpg?raw=true)
