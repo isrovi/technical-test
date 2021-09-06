@@ -15,5 +15,6 @@ Untuk tambah kategori, pinjam, kembalikan, dan sort bedasarkan kategori belum se
 Saya menggunakan template untuk tampilan html dan css bootstrap yang bisa di download di https://startbootstrap.com/template/shop-homepage<br><br>
 Tes ini saya kerjakan dengan semampu saya dan sejujur mungkin, semoga cukup nilainya. Terima Kasih<br><br>
 Gambar Halaman Pertama dan Modal Tambah Buku : <br>
-![alt text](https://github.com/isrovi/technical-test/index.jpg?raw=true)<br>
-![alt text](https://github.com/isrovi/technical-test/modal.jpg?raw=true)
+![alt text](https://github.com/isrovi/technical-test/blob/main/index.JPG?raw=true)
+<br>
+![alt text](https://github.com/isrovi/technical-test/blob/main/modal.JPG?raw=true)
