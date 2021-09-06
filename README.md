@@ -5,4 +5,4 @@ Untuk menjalankan tinggal klik run dan akan muncul di console<br>
 
 Soal 1 : https://jsfiddle.net/6u7hzf21/3/<br>
 Soal 2 : https://jsfiddle.net/wuv28gts/<br>
-Soal 3 : https://jsfiddle.net/t1f5a3ob/
+Soal 3 : https://jsfiddle.net/opjtq6zu/
